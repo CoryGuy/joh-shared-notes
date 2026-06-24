@@ -9,3 +9,5 @@ Context:
 - Repo: https://github.com/CoryGuy/joh-search
 - Latest pause tag: pause-point-2026-06-24-1400
 - Open folder in VS Code and follow README setup steps.
+
+- [2026-06-24 18:04 ET] v1 baseline assigned and published with tag: v1-baseline.
