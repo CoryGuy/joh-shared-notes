@@ -1,0 +1,11 @@
+Joh Search cross-machine sync note
+
+Git clone command:
+
+git clone https://github.com/CoryGuy/joh-search.git
+cd joh-search
+
+Context:
+- Repo: https://github.com/CoryGuy/joh-search
+- Latest pause tag: pause-point-2026-06-24-1400
+- Open folder in VS Code and follow README setup steps.
